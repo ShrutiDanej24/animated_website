@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/animated_website/static/css/main.fa2bd41b.css",
+    "main.js": "/animated_website/static/js/main.5a6b63b4.js",
+    "index.html": "/animated_website/index.html",
+    "main.fa2bd41b.css.map": "/animated_website/static/css/main.fa2bd41b.css.map",
+    "main.5a6b63b4.js.map": "/animated_website/static/js/main.5a6b63b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa2bd41b.css",
+    "static/js/main.5a6b63b4.js"
+  ]
+}
